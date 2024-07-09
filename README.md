@@ -7,7 +7,7 @@ Passionate about **Frontend Engineering** and **Data Analytics**.
 - 🌱 I’m currently learning **React**, **TypeScript**, **JavaScript** and **CSS**.
 - 👯 I’m looking to collaborate on **building websites** or frontend-related stuff.
 - 💬 Ask me about **Frontend** and **Data Analytics Engineering**.
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/ana-patr%C3%ADcia-oliveira) , [Twitter](https://twitter.com/AnaPatrciaOliv5) or [Email](patriciia.mota@gmail.com).
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/ana-patr%C3%ADcia-oliveira) , [Twitter](https://twitter.com/AnaPatrciaOliv5) or [Email](dev.patricia.oliveira@gmail.com).
 
 ## Technologies
 
