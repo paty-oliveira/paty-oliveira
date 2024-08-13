@@ -9,6 +9,8 @@ Passionate about **Frontend Engineer**, **Data Analytics** and **Stock Market**.
 - 💬 Ask me about **Frontend Development** and **Data Analytics Engineering**.
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/ana-patr%C3%ADcia-oliveira) , [Twitter](https://twitter.com/AnaPatrciaOliv5) or [Email](dev.patricia.oliveira@gmail.com).
 
+Follow me in [Substack](https://substack.com/@patrciaoliveira) to read my blog posts! 
+
 ## Technologies
 
 ### Software Development
