@@ -4,7 +4,7 @@ I'm a **software engineer** based in Porto, Portugal 🇵🇹.
 Passionate about **Frontend Engineer**, **Data Analytics** and **Stock Market**.
 
 - 🔭 I’m currently working on **Mindera** as **Data Engineer**.
-- 🌱 I’m currently learning about how to build data pipelines with Docker, Apache Airflow and dbt.
+- 🌱 I’m currently learning about how to build data pipelines with Docker, Apache Airflow, Terraform and dbt.
 - 👯 I’m looking to collaborate on **crafting data products**.
 - 💬 Ask me about **Frontend Development** and **Data Analytics Engineering**.
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/ana-patr%C3%ADcia-oliveira) , [Twitter](https://twitter.com/AnaPatrciaOliv5) or [Email](dev.patricia.oliveira@gmail.com).
