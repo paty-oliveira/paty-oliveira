@@ -38,7 +38,7 @@ Passionate about **Data Analytics**, **Frontend Engineering**, and the **Stock M
 #### 🧠 AI & LLMs
 - Focus Areas: **LLMs**, **Retrieval-Augmented Generation (RAG)**
 - **LLMs:** `OpenAI`, `Mistral`
-- **Tools:** `Snowflake Cortex`
+- **Tools:** `Snowflake Cortex`, `LlamaIndex`
 - **Vector Databases:** `Qdrant`
 
 ---
