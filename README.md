@@ -1,14 +1,14 @@
 Hi there 👋,
 
 I'm **Patrícia Oliveira** — a Software Engineer based in Porto, Portugal 🇵🇹  
-Passionate about **Data Analytics**, **Frontend Engineering**, and the **Stock Market**.
+Passionate about **Data Analytics**, **Frontend Engineering**, **Stock Market**, and **Bioinformatics**.
 
 ---
 
 ### 🚀 About Me
 - 🔭 Currently working as a **Data Engineer** at **Mindera**
 - 🎓 **Mentor in Analytics Engineering**, helping others grow in the data field
-- 🌱 Learning about **Generative AI**, **LLMs**, and **AI-assistant bots (RAG)**
+- 🌱 Learning how to **design and build data products** using biological data.
 - 👯 Looking to collaborate on **Data Products** that connect backend data pipelines with frontend experiences
 - 💬 Ask me about **Frontend Development**, **Data Analytics Engineering**, and **Data Product Design**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ana-patr%C3%ADcia-oliveira/), [X](https://x.com/AnaPatrciaOliv5), or via [Email](dev.patricia.oliveira@gmail.com)
