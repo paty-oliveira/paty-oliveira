@@ -8,7 +8,7 @@ Passionate about **Data Analytics**, **Frontend Engineering**, **Stock Market**,
 ### 🚀 About Me
 - 🔭 Currently working as a **Data Engineer** at **Mindera**
 - 🎓 **Mentor in Analytics Engineering**, helping others grow in the data field
-- 🌱 Learning how to **design and build data products** using biological data.
+- 🌱 Learning how to **design and build data products**.
 - 👯 Looking to collaborate on **Data Products** that connect backend data pipelines with frontend experiences
 - 💬 Ask me about **Frontend Development**, **Data Analytics Engineering**, and **Data Product Design**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ana-patr%C3%ADcia-oliveira/), [X](https://x.com/AnaPatrciaOliv5), or via [Email](dev.patricia.oliveira@gmail.com)
