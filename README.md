@@ -6,7 +6,7 @@ Passionate about **Data Analytics**, **Frontend Engineering**, **Stock Market**,
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working as a **Data Engineer** at **Mindera**
+- 🔭 Currently working as a **Analytics Engineer & Instructor** at **Breakout Labs**
 - 🎓 **Mentor in Analytics Engineering**, helping others grow in the data field
 - 🌱 Learning how to **design and build data products**.
 - 👯 Looking to collaborate on **Data Products** that connect backend data pipelines with frontend experiences
